@@ -1,5 +1,5 @@
 <?php 
-require_once 'src/Calculadora.php'; 
+require_once 'Calculadora.php'; 
  
 use App\Calculadora; 
  
